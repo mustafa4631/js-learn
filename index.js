@@ -10,22 +10,22 @@
 //console.log("merhaba benim adım",first_Name,"soyadım",surname,"ve yaşım",age)
 //console.log(first_Name[0])
 
- //   let sayi = 5
+ //   let sayi = 10
   //   let sayi1 = 5
 
     // console.log(sayi > sayi1)
 
  //console.log(sıra_no[2])
-const PI =Math.PI
+//const PI =Math.PI
 
- let mal = {
-    firstname:"mustafa",
-    surname:"gökpınar",
-    age:3,
-    country:"türkiye",
-    city:"Kahramanmaraş"
+ //let mal = {
+   // firstname:"mustafa",
+   // surname:"gökpınar",
+ //   age:3,
+  //  country:"türkiye",
+   // city:"Kahramanmaraş"
 
- }
- console.log(mal)
-console.log(Math.ceil(8.8))
-console.log(PI)
+    // }
+  //    console.log(mal)
+    //  console.log(Math.ceil(8.8))
+   //  /7 console.log(PI)
