@@ -29,3 +29,7 @@
   //    console.log(mal)
     //  console.log(Math.ceil(8.8))
    //  /7 console.log(PI)
+
+const num = Math.floor(Math.random() * 10) + 1;
+
+console.log(num)
